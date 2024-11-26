@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "node --watch src/index.js",
+    "dev": "concurrently \"node --watch src/index.js\" \"json-server --watch db.json --port 4000\"",
     "bdd": "json-server --watch db.json --port 4000"
   },
   "keywords": [],
@@ -20,6 +20,8 @@
     "uuid": "^10.0.0"
   },
   "devDependencies": {
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "concurrently": "^8.2.0"
   }
 }
+
