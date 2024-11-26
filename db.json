@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "76a53ae5-82eb-46c5-bcee-f47076b5e653",
+      "name": "Christian",
+      "Username": "Azaziank",
+      "Ubication": "IDK",
+      "password": "$2b$10$9q8rb34hxDI6obDbIvoW4.gjdcrWx8rFRb/FMFzvhcoXBWQKQscQe"
+    },
+    {
+      "id": "8b20cf73-c555-45bb-89e8-72cc733aaab5",
+      "name": "kathian",
+      "Username": "kathian",
+      "Ubication": "Ciudad",
+      "password": "$2b$10$HpfdJPwIlQw6bvmwJysGOOg7Unn1aRndVxkHNO5dsrcADHmDFOUCK"
+    },
+    {
+      "id": "c1246d99-6fe2-47d4-8905-3ee154b380e2",
+      "name": "Richad-Robalino",
+      "Username": "Robni",
+      "Ubication": "Runaterra",
+      "password": "$2b$10$cPJhN93YqPKsgllDu5ijtelsLvShllAtAEYZBRWvl7TBQRCzXEuku"
+    },
+    {
+      "id": "c26909fd-85fc-4d2d-bebb-6b9ce97896f4",
+      "name": "Angel-Villamil",
+      "Username": "Anchee",
+      "Ubication": "Rusia",
+      "password": "$2b$10$gSLG6bZnBN2s90ZCLrr1kOfZJFGSw.XJNIRr7ZmhIWlJZRrdDkH0y"
+    },
+    {
+      "id": "7a86195e-405b-469c-b149-e56dbc654a99",
+      "name": "Angelo-Loor",
+      "Username": "Angelo",
+      "Ubication": "Quito",
+      "password": "$2b$10$0Sjdo/BH8AWZ.nUknRbEY.wZ3eyT/VSp3QzsTU3KX9cMvf9Ifymg6"
+    },
+    {
+      "id": "07f572f3-bc26-4a46-a595-82b843b7e7e5",
+      "Username": "Amenendiel",
+      "password": "$2b$10$VXcB54vrN.aRaLQXOUJTjuv9lOMFq5//JxEVs4TcYcAwKNoqbj3Ky"
+    }
+  ],
+  "games": [
+    {
+      "id": "c4109a2f-c1db-4f08-8511-20f6cc87666d",
+      "name": "Final Fantasy VII",
+      "genre": "RPG",
+      "price": 50
+    },
+    {
+      "id": "d2f1e82b-6c3d-472e-85c4-61f0ecf98075",
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Adventure",
+      "price": 60
+    },
+    {
+      "id": "3f871f90-b2d1-4d56-a2ff-827482f9f6c7",
+      "name": "Minecraft",
+      "genre": "Sandbox",
+      "price": 20
+    },
+    {
+      "id": "d33b4d84-1b2c-4d69-8993-8b12e36f14a8",
+      "name": "Super Mario Odyssey",
+      "genre": "Platformer",
+      "price": 55
+    },
+    {
+      "id": "a45c2c2f-0c71-4e6d-a0f6-2d92f3fae891",
+      "name": "Call of Duty: Modern Warfare II",
+      "genre": "Shooter",
+      "price": 70
+    },
+    {
+      "id": "b128e7e9-92f2-4c9f-b184-f3a17a35c456",
+      "name": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "price": 40
+    },
+    {
+      "id": "e9d5a2b1-b671-49bb-b46f-0f3a1d4b5b8d",
+      "name": "Fortnite",
+      "genre": "Battle Royale",
+      "price": 0
+    },
+    {
+      "id": "84f4e9b2-3c3d-4d45-87b8-a85a5c634197",
+      "name": "Among Us",
+      "genre": "Party",
+      "price": 5
+    },
+    {
+      "id": "27a1e8a9-891c-4c26-b2b3-dc4c2f9a9c7a",
+      "name": "Stardew Valley",
+      "genre": "Simulation",
+      "price": 15
+    },
+    {
+      "id": "a6d90f84-2d71-40ba-8c5d-14b7df2efb60",
+      "name": "League of Legends",
+      "genre": "MOBA",
+      "price": 0
+    }
+  ]
+}
